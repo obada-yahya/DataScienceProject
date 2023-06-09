@@ -1,2 +1,2 @@
 # DataScienceProject
-this project is for the GSG Tehnical DataScience Training
+this project is for the GSG Technical DataScience Training
